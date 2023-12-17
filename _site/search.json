@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Universal Video transcription",
+    "section": "",
+    "text": "tldr\nA locally-run client-side application designed to transcribe videos in popular formats, specifically tailored for facilitating transcription tasks in social data science research and analysis.\n\n\nThe Importance of Accurate Transcription in Political Content Analysis\nIn the realm of analyzing political content distributed across various video platforms, the reliability of transcripts with a low error rate is crucial. Platforms like YouTube do offer subtitle options, yet the accuracy of these subtitles remains unclear. Similarly, TikTok provides subtitle features, but again, the precision of these automated transcriptions is not transparent. This uncertainty highlights the necessity for a dependable transcription tool that can assure accuracy, which is essential for thorough and reliable political content analysis.\n\n\nThe Technical Side of Things: Building a Secure, Efficient, and User-Friendly Transcription Tool\nWhen it comes to developing a transcription tool for video content, especially for the analysis of political material, it’s essential to adhere to these four key principles, ensuring the tool is efficient, reliable, and accessible:\n\nClient-Side Operation: The tool is designed to operate entirely client-side, without requiring an internet connection. This feature ensures enhanced privacy and security, as no data needs to be uploaded to external servers for processing. It’s particularly beneficial for sensitive or confidential content, offering users peace of mind that their data remains within their control.\nUniversal Format Compatibility: To transcribe content from any video platform effectively, the tool must support a wide array of video formats. This capability ensures that users can work with videos from diverse sources, making the tool a versatile solution for various types of content.\nLow Error Rate with Whisper AI: At the heart of the transcription process is OpenAI’s Whisper AI, a state-of-the-art speech recognition technology. Whisper AI is renowned for its accuracy and ability to handle different dialects, accents, and audio qualities. By leveraging this technology, the tool aims to achieve a low error rate, providing users with reliable and precise transcripts.\nEnd-User Friendliness: The tool is designed with a focus on user experience, offering an intuitive interface that is easy to navigate, even for non-technical users. Features like straightforward uploading, clear instructions, and the ability to easily edit or export transcriptions are essential. This approach ensures that a wide range of users, such as researchers, journalists, and students, can efficiently utilize the tool without needing advanced technical knowledge.\n\nIn summary, by integrating client-side operation, universal format compatibility, Whisper AI’s advanced transcription capabilities, and an end-user-friendly design, this tool stands out as a secure, accurate, and accessible solution for transcribing video content across various platforms.\n\n\nPrototype and download"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul’s blog",
+    "section": "",
+    "text": "Universal Video transcription\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nDec 12, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
