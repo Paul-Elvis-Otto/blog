@@ -3,7 +3,8 @@ title: "Obsidian Masterclass"
 author: "Paul Elvis Otto"
 date: "2023-12-12"
 categories: [obsidian]
-image: obsidian-logo.png
+image: 2023_Obsidian_logo.svg.png
+im
 ---
 
 # So, What's the Deal with Obsidian?
