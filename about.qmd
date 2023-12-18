@@ -7,12 +7,19 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/paulelvisotto
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCoDtS3Seh7ctJZnLDrl47dg
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/
     - icon: github
       text: Github
       href: https://github.com/paul-elvis-otto
+    - icon: file-person
+      text: CV
+      href: https://youtube.com
+    
 ---
 
 Welcome to my blog!
