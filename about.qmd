@@ -24,3 +24,4 @@ about:
 
 Welcome to my blog!
 Dive into my personal insights, project logs, and more!
+i changed something here 
