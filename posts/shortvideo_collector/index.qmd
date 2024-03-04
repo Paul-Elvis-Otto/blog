@@ -2,6 +2,7 @@
 title: "Video Collection Framework"
 author: "Paul Elvis Otto"
 date: "18-01-2024"
+draft: true
 ---
 
 # Abstract

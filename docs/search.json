@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Paul’s blog",
-    "section": "",
-    "text": "Video Collection Framework\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversal Video transcription\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObsidian Masterclass\n\n\n\nobsidian\n\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nDec 12, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Obsidian Masterclass",
-    "section": "",
-    "text": "So, What’s the Deal with Obsidian?\nLet’s cut to the chase: Obsidian? It’s pretty much the coolest note-taking app out there. Need to jot down something quickly? Obsidian’s got your back. But it’s not just about quick notes. Want to dive deep into your thoughts and build a knowledge base like no other? Yep, Obsidian can handle that too.\nWhat really rocks about Obsidian is the sheer range of stuff you can do with it. And if there’s something you need that it doesn’t have right out of the box, chances are there’s a plugin for that. It’s this flexibility that makes Obsidian not just another app, but a powerhouse for your ideas and projects."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Universal Video transcription",
-    "section": "",
-    "text": "tldr\nA locally-run client-side application designed to transcribe videos in popular formats, specifically tailored for facilitating transcription tasks in social data science research and analysis.\n\n\nThe Importance of Accurate Transcription in Political Content Analysis\nIn the realm of analyzing political content distributed across various video platforms, the reliability of transcripts with a low error rate is crucial. Platforms like YouTube do offer subtitle options, yet the accuracy of these subtitles remains unclear. Similarly, TikTok provides subtitle features, but again, the precision of these automated transcriptions is not transparent. This uncertainty highlights the necessity for a dependable transcription tool that can assure accuracy, which is essential for thorough and reliable political content analysis.\n\n\nThe Technical Side of Things: Building a Secure, Efficient, and User-Friendly Transcription Tool\nWhen it comes to developing a transcription tool for video content, especially for the analysis of political material, it’s essential to adhere to these four key principles, ensuring the tool is efficient, reliable, and accessible:\n\nClient-Side Operation: The tool is designed to operate entirely client-side, without requiring an internet connection. This feature ensures enhanced privacy and security, as no data needs to be uploaded to external servers for processing. It’s particularly beneficial for sensitive or confidential content, offering users peace of mind that their data remains within their control.\nUniversal Format Compatibility: To transcribe content from any video platform effectively, the tool must support a wide array of video formats. This capability ensures that users can work with videos from diverse sources, making the tool a versatile solution for various types of content.\nLow Error Rate with Whisper AI: At the heart of the transcription process is OpenAI’s Whisper AI, a state-of-the-art speech recognition technology. Whisper AI is renowned for its accuracy and ability to handle different dialects, accents, and audio qualities. By leveraging this technology, the tool aims to achieve a low error rate, providing users with reliable and precise transcripts.\nEnd-User Friendliness: The tool is designed with a focus on user experience, offering an intuitive interface that is easy to navigate, even for non-technical users. Features like straightforward uploading, clear instructions, and the ability to easily edit or export transcriptions are essential. This approach ensures that a wide range of users, such as researchers, journalists, and students, can efficiently utilize the tool without needing advanced technical knowledge.\n\nIn summary, by integrating client-side operation, universal format compatibility, Whisper AI’s advanced transcription capabilities, and an end-user-friendly design, this tool stands out as a secure, accurate, and accessible solution for transcribing video content across various platforms.\n\n\nPrototype and download\nthis is a test lalalal"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -28,17 +7,10 @@
     "text": "Welcome to my blog! Dive into my personal insights, project logs, and more!"
   },
   {
-    "objectID": "posts/shortvideo_collector/index.html",
-    "href": "posts/shortvideo_collector/index.html",
-    "title": "Video Collection Framework",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul’s blog",
     "section": "",
-    "text": "It is critical for researching Shortvideos, like TikToks, Youtube Shorts, and Instagram reels, for them to be reliablie aquired.\nAs some researchers might rely on input given by partizipants on the effect or opinion those videos"
-  },
-  {
-    "objectID": "posts/shortvideo_collector/index.html#problems-and-challenges-to-overcome",
-    "href": "posts/shortvideo_collector/index.html#problems-and-challenges-to-overcome",
-    "title": "Video Collection Framework",
-    "section": "Problems and Challenges to overcome",
-    "text": "Problems and Challenges to overcome\nn addressing the challenge of universal data collection across various short-video platforms and client devices, it is imperative to consider a structured, yet flexible, technological approach. The proposed tool aims to facilitate comprehensive data gathering for academic research purposes. To this end, the optimal strategy involves delineating distinct processes within the tool’s architecture.\nThe proposed structure entails the development of two specialized applications - one tailored for iOS and another for Android. This bifurcation addresses the intrinsic differences in operating systems and optimizes functionality. Additionally, a server equipped with a database is envisaged for storing transcribed links. This minimalist server configuration, comprising a basic HTTP server and a database, is deliberately chosen to minimize complexity, thereby enhancing accessibility for researchers. This approach not only simplifies data storage but also allows researchers the flexibility to develop their own analytical frameworks, tailored to specific research objectives.\nThe ethical implications of data collection and the adherence to stringent data privacy standards are of paramount importance. The tool is designed with these considerations at its core, ensuring that it aligns with both ethical norms and academic integrity.\nIn summary, this tool represents a scalable, adaptable solution for researchers, offering a foundational platform for diverse analytical endeavors in the digital media landscape. Its architecture is strategically designed to balance simplicity, functionality, and accessibility, thereby serving as a valuable asset for future academic research."
+    "text": "No matching items"
   }
 ]

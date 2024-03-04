@@ -4,6 +4,7 @@ author: "Paul Elvis Otto"
 date: "2023-12-12"
 categories: [obsidian]
 image: 2023_Obsidian_logo.svg.png
+draft: true
 ---
 
 # So, What's the Deal with Obsidian?

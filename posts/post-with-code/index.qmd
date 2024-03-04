@@ -4,6 +4,7 @@ author: "Paul Elvis Otto"
 date: "2023-12-15"
 categories: [news, code, analysis]
 image: "image.jpg"
+draft: true
 ---
 
 # tldr
