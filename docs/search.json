@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Paul’s blog",
     "section": "",
-    "text": "Universal Video transcription\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObsidian Masterclass\n\n\n\nobsidian\n\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nDec 12, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Video Collection Framework\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversal Video transcription\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObsidian Masterclass\n\n\n\nobsidian\n\n\n\n\n\n\n\nPaul Elvis Otto\n\n\nDec 12, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,19 @@
     "title": "About",
     "section": "",
     "text": "Welcome to my blog! Dive into my personal insights, project logs, and more!"
+  },
+  {
+    "objectID": "posts/shortvideo_collector/index.html",
+    "href": "posts/shortvideo_collector/index.html",
+    "title": "Video Collection Framework",
+    "section": "",
+    "text": "It is critical for researching Shortvideos, like TikToks, Youtube Shorts, and Instagram reels, for them to be reliablie aquired.\nAs some researchers might rely on input given by partizipants on the effect or opinion those videos"
+  },
+  {
+    "objectID": "posts/shortvideo_collector/index.html#problems-and-challenges-to-overcome",
+    "href": "posts/shortvideo_collector/index.html#problems-and-challenges-to-overcome",
+    "title": "Video Collection Framework",
+    "section": "Problems and Challenges to overcome",
+    "text": "Problems and Challenges to overcome\nn addressing the challenge of universal data collection across various short-video platforms and client devices, it is imperative to consider a structured, yet flexible, technological approach. The proposed tool aims to facilitate comprehensive data gathering for academic research purposes. To this end, the optimal strategy involves delineating distinct processes within the tool’s architecture.\nThe proposed structure entails the development of two specialized applications - one tailored for iOS and another for Android. This bifurcation addresses the intrinsic differences in operating systems and optimizes functionality. Additionally, a server equipped with a database is envisaged for storing transcribed links. This minimalist server configuration, comprising a basic HTTP server and a database, is deliberately chosen to minimize complexity, thereby enhancing accessibility for researchers. This approach not only simplifies data storage but also allows researchers the flexibility to develop their own analytical frameworks, tailored to specific research objectives.\nThe ethical implications of data collection and the adherence to stringent data privacy standards are of paramount importance. The tool is designed with these considerations at its core, ensuring that it aligns with both ethical norms and academic integrity.\nIn summary, this tool represents a scalable, adaptable solution for researchers, offering a foundational platform for diverse analytical endeavors in the digital media landscape. Its architecture is strategically designed to balance simplicity, functionality, and accessibility, thereby serving as a valuable asset for future academic research."
   }
 ]

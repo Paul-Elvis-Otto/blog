@@ -1,0 +1,37 @@
+---
+title: "Video Collection Framework"
+author: "Paul Elvis Otto"
+date: "18-01-2024"
+---
+
+# Abstract
+
+It is critical for researching Shortvideos, like TikToks, Youtube Shorts, and Instagram reels, for them to be reliablie aquired.
+
+As some researchers might rely on input given by partizipants on the effect or opinion those videos
+
+# Specific usecase
+
+This Workflow is designed to collect political videos from different social media platforms. As the goal is to analyse those videos under different objectives it is critical for them to be available, stored and classified
+
+In this specific usecase the videos which are collected are used to identify populist speakers and the people they talk about. Following that the use should be able to send the Tiktok to the application and tag it with different categories.
+
+## Problems and Challenges to overcome
+
+n addressing the challenge of universal data collection across various short-video platforms and client devices, it is imperative to consider a structured, yet flexible, technological approach. The proposed tool aims to facilitate comprehensive data gathering for academic research purposes. To this end, the optimal strategy involves delineating distinct processes within the tool's architecture.
+
+The proposed structure entails the development of two specialized applications - one tailored for iOS and another for Android. This bifurcation addresses the intrinsic differences in operating systems and optimizes functionality. Additionally, a server equipped with a database is envisaged for storing transcribed links. This minimalist server configuration, comprising a basic HTTP server and a database, is deliberately chosen to minimize complexity, thereby enhancing accessibility for researchers. This approach not only simplifies data storage but also allows researchers the flexibility to develop their own analytical frameworks, tailored to specific research objectives.
+
+The ethical implications of data collection and the adherence to stringent data privacy standards are of paramount importance. The tool is designed with these considerations at its core, ensuring that it aligns with both ethical norms and academic integrity.
+
+In summary, this tool represents a scalable, adaptable solution for researchers, offering a foundational platform for diverse analytical endeavors in the digital media landscape. Its architecture is strategically designed to balance simplicity, functionality, and accessibility, thereby serving as a valuable asset for future academic research.
+
+# Building the IOS client
+
+# Building the android client
+
+# Server architecture
+
+# Downloading videos across platforms
+
+# Database of videos
